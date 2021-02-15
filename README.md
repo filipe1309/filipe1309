@@ -1,5 +1,8 @@
 <h2 align="center">Hello World! :runner:</h2>
-
+![PHP](https://img.shields.io/badge/PHP-Expert-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![NodeJS](https://img.shields.io/badge/NodeJS-Intermediate-red)
+![Python](https://img.shields.io/badge/Python-Intermediate-orange)
 
 - 🔭 I’m currently working on ... [MadeiraMadeira](https://www.madeiramadeira.com.br/)
 - 🌱 I’m currently learning ... React/NextJS/gRPC/GoLang
