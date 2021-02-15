@@ -1,15 +1,14 @@
 <h2 align="center">Hello World! :runner:</h2>
-
+  
 ![PHP](https://img.shields.io/badge/PHP-Expert-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Intermediate-red)
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange)
-
+![ReactJS](https://img.shields.io/badge/ReactJS-Basic-blue)
+![NextJS](https://img.shields.io/badge/NextJS-Basic-lightgrey)
+  
 - 🔭 I’m currently working on ... [MadeiraMadeira](https://www.madeiramadeira.com.br/)
 - 🌱 I’m currently learning ... React/NextJS/gRPC/GoLang
-- 👯 I’m looking to collaborate on ... PHP
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/filipe1309/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to run! 🏃‍
