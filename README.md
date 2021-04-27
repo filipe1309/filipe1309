@@ -6,12 +6,13 @@
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&color=#339933)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&color=339933)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
-![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872ca)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
+![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
   
 
 <details>
