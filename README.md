@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
   
+<hr>
 
 <details>
   <summary>Most Used Languages && GitHub Stats</summary>
@@ -21,10 +22,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=filipe1309&show_icons=true&theme=highcontrast">
     </div>
 </details>
-  
+
+<hr>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe1309/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe1309@gmail.com)
 
+<hr>
 
 <p align="center">
 01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01110100 01101000 01100101 00100000 <b><i>01101101 01100001 01100111 01101001 01100011</i></b> 00100000 01101000 01100001 01110000 01110000 01100101 01101110 01110011 00100001
