@@ -1,6 +1,4 @@
 <h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
-  
-## Languages and Tools:
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
@@ -28,3 +26,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe1309@gmail.com)
 
 
+<p align="center">
+01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01110100 01101000 01100101 00100000 <b>01101101 01100001 01100111 01101001 01100011</b> 00100000 01101000 01100001 01110000 01110000 01100101 01101110 01110011 00100001
+</p>
+   
