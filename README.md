@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
-  
+
 <hr>
 
 <p align="center">
@@ -29,9 +29,13 @@
     </div>
 </details>
 
-<hr>
+<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe1309/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe1309@gmail.com)
-
-   
+<p>
+    <a href="https://www.linkedin.com/in/winicius-dev/" target="_blank">
+      <img align="left" alt="Linkedin" width="24px" src="assets/Linkedin.svg" />
+    </a>
+    <a href="mailto:winiciussouzadev@gmail.com" target="_blank">
+      <img align="left" alt="Gmail" width="26px" src="assets/Gmail.svg" />
+    </a>
+</p>
