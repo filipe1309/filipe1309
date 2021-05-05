@@ -32,10 +32,10 @@
 <br>
 
 <p>
-    <a href="https://www.linkedin.com/in/winicius-dev/" target="_blank">
+    <a href="https://www.linkedin.com/in/filipe1309/" target="_blank">
       <img align="left" alt="Linkedin" width="24px" src="assets/Linkedin.svg" />
     </a>
-    <a href="mailto:winiciussouzadev@gmail.com" target="_blank">
+    <a href="mailto:filipe1309@gmail.com" target="_blank">
       <img align="left" alt="Gmail" width="26px" src="assets/Gmail.svg" />
     </a>
 </p>
