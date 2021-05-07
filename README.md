@@ -1,5 +1,6 @@
 <h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
-
+ 
+![](https://komarev.com/ghpvc/?username=filipe1309)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
