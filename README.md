@@ -1,5 +1,6 @@
 <h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
- 
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![](https://komarev.com/ghpvc/?username=filipe1309)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
@@ -7,11 +8,17 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&color=339933)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
+<br>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
+![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git)
+![](https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira)
+![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
+
 
 <hr>
 
