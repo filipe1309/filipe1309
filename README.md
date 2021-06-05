@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=javascript&color=339933&logoColor=339933)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 <br>
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
@@ -13,7 +14,7 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248&logoColor=47A248)
 <br>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
-![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git)
+![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira)
 ![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 <br>
