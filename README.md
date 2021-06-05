@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
-![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
+![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
 <br>
 ![](https://komarev.com/ghpvc/?username=filipe1309)
 
