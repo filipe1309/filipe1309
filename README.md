@@ -1,11 +1,13 @@
 <h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
 
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=nodejs&color=339933)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=javascript&color=339933&logoColor=339933)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
+<br>
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
 ![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=CC2927)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248&logoColor=47A248)
