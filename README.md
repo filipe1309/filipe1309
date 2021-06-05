@@ -15,8 +15,8 @@
 <br>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git&color=F05032)
-![](https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira)
-![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira&logoColor=0052CC)
+![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
