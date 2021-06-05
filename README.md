@@ -1,7 +1,5 @@
 <h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![](https://komarev.com/ghpvc/?username=filipe1309)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=flat-square&logo=lumen&color=F4645F)
@@ -18,7 +16,8 @@
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA)
-
+<br>
+![](https://komarev.com/ghpvc/?username=filipe1309)
 
 <hr>
 
