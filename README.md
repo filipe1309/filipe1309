@@ -33,11 +33,11 @@
 
 <details>
   <summary>Most Used Languages && GitHub Stats</summary>
-  <div>
-    <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe1309&langs_count=20&layout=compact&theme=dark">
-      <img src="https://github-readme-stats.vercel.app/api?username=filipe1309&show_icons=true&theme=highcontrast">
-    </div>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=filipe1309&show_icons=true&theme=dracula" alt="filipe1309" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe1309&langs_count=8&layout=compact&show_icons=true&theme=dracula" alt="filipe1309' top langs"/>
+  </p>
 </details>
 
 <br>
@@ -49,4 +49,6 @@
     <a href="mailto:filipe1309@gmail.com" target="_blank">
       <img align="left" alt="Gmail" width="26px" src="assets/Gmail.svg" />
     </a>
+  
 </p>
+  
