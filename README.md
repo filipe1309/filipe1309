@@ -1,4 +1,4 @@
-<h2 align="center"><b>D</b><i>ev</i><b>O</b><i>n</i>T<i>he</i><b>R</b><i>un</i>! :runner:</h2>
+<h2 align="center"><b>D</b><i>ev</i><b>D</b><i>ot</i><b>R</b><i>un</i>! :runner:</h2>
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
