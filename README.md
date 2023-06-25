@@ -19,12 +19,12 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248&logoColor=47A248)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat-square&logo=redis&color=DC382D&logoColor=DC382D)
 <br>
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=kubernetes&color=326CE5)
 ![](https://img.shields.io/badge/Tools-Git-black?style=flat-square&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat-square&logo=elasticsearch&color=005571&logoColor=005571)
 ![](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat-square&logo=apache-kafka&color=231F20&logoColor=231F20)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=FF9900&logoColor=FF9900)
 <br>
 ![](https://img.shields.io/badge/Tools-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![](https://img.shields.io/badge/Tools-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=3DDC84)
@@ -34,7 +34,7 @@
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=FCC624)
 ![](https://img.shields.io/badge/OS-WSL2-ormational?style=flat-square&logo=linux&color=0872CA&logoColor=0872CA)
-![](https://img.shields.io/badge/OS-macOS-ormational?style=flat-square&logo=apple&color=000000&logoColor=000000)
+![](https://img.shields.io/badge/OS-macOS-ormational?style=flat-square&logo=apple&color=666666&logoColor=666666)
 <br>
 ![](https://komarev.com/ghpvc/?username=filipe1309)
 
