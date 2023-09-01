@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F7F542&background=55FFBF00&center=true&vCenter=true&width=435&lines=W3LC0M3" alt="Welcome">
 </p>
 
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&color=3178C6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
