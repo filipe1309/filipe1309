@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F7F542&background=55FFBF00&center=true&vCenter=true&width=435&lines=W3LC0M3" alt="Welcome">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F7F542&background=55FFBF00&center=true&vCenter=true&width=435&lines=Ⓦ③ⓁⒸ⓪Ⓜ③" alt="Welcome">
 </p>
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&color=3178C6)
@@ -48,7 +48,7 @@
 <hr>
 
 <details>
-  <summary>Most Used Languages && GitHub Stats</summary>
+  <summary> 🅖🅗 🅢🅣🅐🅣🅢 | 🅣🅞🅟 🅛🅐🅝🅖🅤🅐🅖🅔🅢 </summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=filipe1309&show_icons=true&theme=dracula" alt="filipe1309" />
