@@ -42,27 +42,25 @@
 <hr>
 
 ```javascript
-const Love = (activity) => {
-  const interests = {
-    coding: "becoming a Code Wizard 🧙‍♂️",
-    learning: "unlocking new knowledge 📚",
-    "drinking coffee": "sipping the elixir of creativity ☕️",
-    traveling: "embarking on epic adventures ✈️",
-    "Lord of the Rings": "journeying through Middle-earth 🌄",
-    Matrix: "unraveling the digital realm 🕶️",
-    running: "chasing personal bests 🏃‍♂️",
-    sleeping: "diving into dreamland 🌙",
-  };
+const Love = () => {
+  const interests = [
+    { name: "Coding", goal: "becoming a Code Wizard 🧙‍♂️" },
+    { name: "Learning", goal: "unlocking new knowledge 📚" },
+    { name: "Drinking coffee", goal: "sipping the elixir of creativity ☕️" },
+    { name: "Traveling", goal: "embarking on epic adventures ✈️" },
+    { name: "Lord of the Rings", goal: "journeying through Middle-earth 🌄" },
+    { name: "Matrix", goal: "unraveling the digital realm 🕶️" },
+    { name: "Running", goal: "chasing personal bests 🏃‍♂️" },
+    { name: "Sleeping", goal: "diving into dreamland 🌙" },
+  ];
 
-  const goal = interests[activity];
+  const randomIndex = Math.floor(Math.random() * interests.length);
+  const randomInterest = interests[randomIndex];
 
-  return goal
-    ? `Today, I'm all about ${goal}!`
-    : "Not sure how to have fun with that...";
+  return `Today, I'm all about ${randomInterest.goal}!`;
 };
 
-const activity = "traveling";
-const result = Love(activity);
+const result = Love();
 console.log(result);
 ```
 
