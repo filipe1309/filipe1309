@@ -41,6 +41,33 @@
 
 <hr>
 
+```javascript
+const Love = (activity) => {
+  const interests = {
+    coding: "becoming a Code Wizard 🧙‍♂️",
+    learning: "unlocking new knowledge 📚",
+    "drinking coffee": "sipping the elixir of creativity ☕️",
+    traveling: "embarking on epic adventures ✈️",
+    "Lord of the Rings": "journeying through Middle-earth 🌄",
+    Matrix: "unraveling the digital realm 🕶️",
+    running: "chasing personal bests 🏃‍♂️",
+    sleeping: "diving into dreamland 🌙",
+  };
+
+  const goal = interests[activity];
+
+  return goal
+    ? `Today, I'm all about ${goal}!`
+    : "Not sure how to have fun with that...";
+};
+
+const activity = "traveling";
+const result = Love(activity);
+console.log(result);
+```
+
+<hr>
+
 [01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01110100 01101000 01100101 00100000 01101101 01100001 01100111 01101001 01100011 00100000 01101000 01100001 01110000 01110000 01100101 01101110 01110011 00100001]: #
 <p align="center">
   𝟘𝟙𝟘𝟙𝟘𝟙𝟘𝟘 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟙 𝟘𝟙𝟙𝟙𝟘𝟘𝟙𝟙 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟙 𝟘𝟙𝟙𝟙𝟘𝟘𝟙𝟙 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟙𝟘𝟙𝟙𝟙 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟘𝟙𝟘𝟙 𝟘𝟙𝟙𝟙𝟘𝟘𝟙𝟘 𝟘𝟙𝟙𝟘𝟘𝟙𝟘𝟙 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟙𝟘𝟙𝟘𝟘 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟘𝟙𝟘𝟙 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟘 <ins><b><i>𝟘𝟙𝟙𝟘𝟙𝟙𝟘𝟙 𝟘𝟙𝟙𝟘𝟘𝟘𝟘𝟙 𝟘𝟙𝟙𝟘𝟘𝟙𝟙𝟙 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟙 𝟘𝟙𝟙𝟘𝟘𝟘𝟙𝟙</i></b></ins> 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟙𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟘𝟘𝟘𝟙 𝟘𝟙𝟙𝟙𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟙𝟘𝟘𝟘𝟘 𝟘𝟙𝟙𝟘𝟘𝟙𝟘𝟙 𝟘𝟙𝟙𝟘𝟙𝟙𝟙𝟘 𝟘𝟙𝟙𝟙𝟘𝟘𝟙𝟙 𝟘𝟘𝟙𝟘𝟘𝟘𝟘𝟙
@@ -49,11 +76,11 @@
 <hr>
 
 <details>
-  <summary> 🅖🅗 🅢🅣🅐🅣🅢 | 🅣🅞🅟 🅛🅐🅝🅖🅤🅐🅖🅔🅢 </summary>
+  <summary> 🅖🅗 🅢🅣🅐🅣🅢 </summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=filipe1309&show_icons=true&theme=dracula" alt="filipe1309" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe1309&langs_count=8&layout=compact&show_icons=true&theme=dracula" alt="filipe1309' top langs"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=filipe1309&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe1309&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
   </p>
 </details>
 
