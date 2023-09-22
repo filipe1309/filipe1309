@@ -41,27 +41,27 @@
 
 <hr>
 
-```javascript
-const Love = () => {
-  const interests = [
-    { name: "Coding", goal: "becoming a Code Wizard 🧙‍♂️" },
-    { name: "Learning", goal: "unlocking new knowledge 📚" },
-    { name: "Drinking coffee", goal: "sipping the elixir of creativity ☕️" },
-    { name: "Traveling", goal: "embarking on epic adventures ✈️" },
-    { name: "Lord of the Rings", goal: "journeying through Middle-earth 🌄" },
-    { name: "Matrix", goal: "unraveling the digital realm 🕶️" },
-    { name: "Running", goal: "chasing personal bests 🏃‍♂️" },
-    { name: "Sleeping", goal: "diving into dreamland 🌙" },
-  ];
+```kt
+fun love(): String {
+    val interests = listOf(
+        Pair("coding", "becoming a Code Wizard 🧙‍♂️"),
+        Pair("learning", "unlocking new knowledge 📚"),
+        Pair("drinking coffee", "sipping the elixir of creativity ☕️"),
+        Pair("traveling", "embarking on epic adventures ✈️"),
+        Pair("Lord of the Rings", "journeying through Middle-earth 🌄"),
+        Pair("Matrix", "unraveling the digital realm 🕶️"),
+        Pair("running", "chasing personal bests 🏃‍♂️"),
+        Pair("sleeping", "diving into dreamland 🌙")
+    )
 
-  const randomIndex = Math.floor(Math.random() * interests.length);
-  const randomInterest = interests[randomIndex];
+    val randomInterest = interests.random()
+    return "Today, I'm all about ${randomInterest.second}!"
+}
 
-  return `Today, I'm all about ${randomInterest.goal}!`;
-};
-
-const result = Love();
-console.log(result);
+fun main() {
+    val result = love()
+    println(result)
+}
 ```
 
 <hr>
