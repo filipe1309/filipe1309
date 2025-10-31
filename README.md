@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=F7F542&background=55FFBF00&center=true&vCenter=true&width=435&lines=Ⓦ③ⓁⒸ⓪Ⓜ③" alt="Welcome">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F6F710&width=435&lines=%E2%93%8C%E2%91%A2%E2%93%81%E2%92%B8%E2%93%AA%E2%93%82%E2%91%A2" alt="Typing SVG" /></a>
 </p>
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&color=3178C6)
