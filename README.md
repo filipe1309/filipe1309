@@ -2,16 +2,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F6F710&center=true&vCenter=true&random=true&width=435&lines=%E2%93%8C%E2%91%A2%E2%93%81%E2%92%B8%E2%93%AA%E2%93%82%E2%91%A2" alt="Typing SVG" /></a>
 </p>
 
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&color=3178C6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&color=00ADD8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=kotlin&color=7F52FF&logoColor=7F52FF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)
 <br>
+![](https://img.shields.io/badge/Code-Gin-informational?style=flat-square&logo=gin&color=00ADD8)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&color=339933&logoColor=339933)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat-square&logo=nestjs&color=E0234E&logoColor=E0234E)
-![](https://img.shields.io/badge/Code-Gin-informational?style=flat-square&logo=gin&color=00ADD8)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Hyperf-informational?style=flat-square&logo=hyperf&color=FFFFFF)
 <br>
